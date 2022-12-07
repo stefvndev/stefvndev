@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @stefvndev
-- 👀 I’m interested in Front-end Development
-- 🌱 I’m currently learning React JS
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me (dm)
+💻 Front-end React Developer 
 
 <!---
 stefvndev/stefvndev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
