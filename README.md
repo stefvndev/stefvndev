@@ -5,7 +5,7 @@ I am Front End React developer.
 --------------------------
 
 *   🌍  I'm based in Belgrade, Serbia
-*   🖥️  See my portfolio at [soon](http://s)
+*   🖥️  See my portfolio at [soon]
 *   🧠  I'm learning all about Front-end
 *   🤝  I'm open to collaborating on interesting projects as a developer
 
@@ -20,4 +20,4 @@ I am Front End React developer.
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/stefvndev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> &nbsp; <a href="https://www.linkedin.com/in/stefan-topalovic-dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/stefan-topalovic-dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> </p>
