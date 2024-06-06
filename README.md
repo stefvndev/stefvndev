@@ -1,7 +1,7 @@
-Hi! My name is Stefan Topalović 😄
+Hi! My name is Abdul 😄
 ========================================================================================================================================
-
-🌍  I am a Front-End Developer based in Belgrade, Serbia.
+ 
+🌍  I am a Front-End Developer based in Peshawar, Pakistan.
 <br/>
 
 ### Skills
