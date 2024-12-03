@@ -2,6 +2,7 @@ Hi! My name is Stefan Topalović 😄
 ========================================================================================================================================
 
 🌍  I am a Front-End Developer based in Belgrade, Serbia.
+<br/>
 💻  Open to work!
 <br/>
 
